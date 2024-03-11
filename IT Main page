@@ -1,0 +1,37 @@
+<h1 id="information-technology" class="toc-header">  Information Technology</h1>
+<p>Welcome to the lifeline of our blood bank's technological heartbeat: the IT learning page. Dive in to access tools, resources, and knowledge essential for ensuring our vital mission flows seamlessly.</p>
+<br>
+<h3 id="my-it" class="toc-header"> My IT</h3><br>
+<a href="http://vk1000.ad.obi.org/" class="button is-external-link" style="color:white" target="_blank" rel="noreferrer">OBI Help Desk</a>
+<a href="https://adaxes1.ad.obi.org/adaxes/Manager%20Self-Service" class="button is-external-link" style="color:white" target="_blank" rel="noreferrer">IT Request Form</a>
+<a href="http://prd-ssrs01/reports/browse/" class="button is-external-link" style="color:white" target="_blank" rel="noreferrer">Report Central</a>
+<blockquote>
+  <p>Have questions about the form? - <a href="http://obi-web-apps.obi.org/community/uploads/IT_RequestForm_QRC_072822.pdf" style="text-decoration:none;" class="is-external-link" target="_blank" rel="noreferrer"><strong>IT Request Form QRC</strong></a></p>
+</blockquote><div>
+
+</div><h3 id="password-self-service" class="toc-header"> Password Self Service</h3><br>
+<a href="https://myaccount.obi.org/" class="button is-external-link" style="color:white" target="_blank" rel="noreferrer">Self Service Portal</a><div>
+  </div><ul class="grid-list">
+    <li>Not sure how to reset your OBI password using the Self Service Portal? View the <a href="http://obi-web-apps.obi.org/community/uploads/PW_SelfService_QRC_Updated.pdf" style="text-decoration:none;" class="is-external-link" target="_blank" rel="noreferrer"><strong>Password Self Service Portal QRC</strong></a></li><li>
+    </li><li>Need to configure security questions to use the Self Service Portal? Visit the <a href="https://myaccount.obi.org/" style="text-decoration:none;" class="is-external-link" target="_blank" rel="noreferrer"><strong>Self Service Portal</strong></a></li>
+    </ul>
+<h3 id="links" class="toc-header"> Links</h3>
+<ul class="grid-list">
+  <li><a href="https://scout.obi.org/" class="is-external-link" target="_blank" rel="noreferrer" style="text-decoration:none;"><strong>Scout</strong></a></li>
+  <li><a href="http://compass.obi.org/en/informationtechnology/dashboard" class="is-external-link" target="_blank" rel="noreferrer" style="text-decoration:none;"><strong>KPIs</strong></a></li>
+  <li><a href="http://compass.obi.org/en/informationtechnology/glossary" class="is-external-link" target="_blank" rel="noreferrer" style="text-decoration:none;"><strong>IT Glossary</strong></a></li>
+</ul>
+<h3 id="training" class="toc-header"> Training</h3>
+<ul class="grid-list">
+  <li><a href="http://compass.obi.org/en/informationtechnology/dnsbox" class="is-external-link" target="_blank" rel="noreferrer" style="text-decoration:none;"><strong>DNSBox</strong></a></li>
+  <li><a href="http://compass.obi.org/en/informationtechnology/scout" class="is-external-link" target="_blank" rel="noreferrer" style="text-decoration:none;"><strong>Scout</strong></a></li>
+  <li><a href="/en/informationtechnology/compass" class="is-internal-link is-valid-page" style="text-decoration:none;"><strong>Compass</strong></a></li>
+</ul>
+<h3 id="information" class="toc-header"> Information</h3>
+<ul class="grid-list">
+  <li><a href="/en/informationtechnology/Documentation/Applications" class="is-internal-link is-valid-page" style="text-decoration:none;"><strong>Application Documentation</strong></a></li>
+</ul>
+<h3 id="development" class="toc-header"> Development</h3>
+<ul class="grid-list">
+  <li><a href="/en/informationtechnology/Documentation/Development" class="is-internal-link is-valid-page" style="text-decoration:none;"><strong>Development</strong></a></li>
+</ul>
