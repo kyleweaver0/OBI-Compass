@@ -1,0 +1,88 @@
+<h1>Human Resources</h1>
+<p>Welcome to the heart of our organizational family: the HR Page. Embark to discover, nurture, and champion the talents that shape our collective success.</p>
+<h2>Department Contacts</h2><br>
+<figure class="table">
+  <table style="border:none">
+    <thead>
+      <tr>
+        <th style="background-color:rgb(210,35,42);text-align:center;color:white;border:none"><strong>Name</strong></th>
+        <th style="background-color:rgb(210,35,42);text-align:center;color:white;border:none"><strong>Title</strong></th>
+        <th style="background-color:rgb(210,35,42);text-align:center;color:white;border:none"><strong>Phone</strong></th>
+        <th style="background-color:rgb(210,35,42);text-align:center;color:white;border:none"><strong>Email</strong></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="border:none"><strong>Joseph McNeil</strong></td>
+        <td style="border:none">BS, MBA Associate Vice President</td>
+        <td style="border:none">123456789</td>
+        <td style="border:none"><a href="mailto:test@test.org">test@test.org</a></td>
+      </tr>
+      <tr>
+        <td style="background-color:hsl(0, 0%, 90%);border:none"><strong>Michelle Covert</strong></td>
+        <td style="background-color:hsl(0, 0%, 90%);border:none">Manager, Regional, Senior</td>
+        <td style="background-color:hsl(0, 0%, 90%);border:none">123456789</td>
+        <td style="background-color:hsl(0, 0%, 90%);border:none"><a href="mailto:test@test.org">test@test.org</a></td>
+      </tr>
+      <tr>
+        <td style="border:none"><strong>Stephanie Knight</strong></td>
+        <td style="border:none">BA Manager, Recruiting, Senior/Manager, Regional</td>
+        <td style="border:none">123456789</td>
+        <td style="border:none"><a href="mailto:test@test.org">test@test.org</a></td>
+      </tr>
+      <tr>
+        <td style="background-color:hsl(0, 0%, 90%);border:none"><strong>Kathy Williams</strong></td>
+        <td style="background-color:hsl(0, 0%, 90%);border:none">Test</td>
+        <td style="background-color:hsl(0, 0%, 90%);border:none">123456789</td>
+        <td style="background-color:hsl(0, 0%, 90%);border:none"><a href="mailto:test@test.org">test@test.org</a></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<h2>Employee Benefits &amp; Information</h2>
+<ul class="grid-list">
+  <li><a href="/human_resources/Benefits" style="text-decoration: none;"><strong>Employee Benefits 2024</strong></a></li>
+  </ul>
+    
+  <h2>Careers</h2>
+ <ul class="grid-list">
+   <li><a href="/human_resources/Careers" style="text-decoration: none;"><strong>Oklahoma Blood Insitute Careers</strong></a></li>
+   </ul>
+
+<h2>Sentry Workers Comp Approved Provider List</h2>
+<ul class="grid-list">
+  <li><a href="http://obi-web-apps.obi.org/community/uploads/2019%20All%20Employees%20Sentry%20Authorization%20to%20Treat%20Employee%20WC%20(02182019).pdf" style="text-decoration: none;"><strong>Authorize to treat, Manager Approval &amp; First Fill Prescription Form</strong></a></li>
+  <li><a href="http://obi-web-apps.obi.org/community/uploads/Amarillo_ATF.pdf" style="text-decoration: none;"><strong>Amarillo Authorize to Treat Nova Medical Centers</strong></a></li>
+  <li><a href="http://obi-web-apps.obi.org/community/uploads/Workers%20Comp%20Locations.pdf" style="text-decoration: none;"><strong>Designated Treatment for OKC &amp; All Centers</strong></a></li>
+</ul>
+<blockquote class="is-warning">
+  <p><strong>Employees MUST have approved form signed by a Manager to be treated for a workers comp injury.</strong></p>
+</blockquote>
+
+<h2>Biz Library</h2>
+  <ul class="grid-list">
+<li><a href="https://bizl.bizlibrary.com/Account/Login?ReturnUrl=%2F" style="text-decoration: none;"><strong>Biz Libray Login</strong></a></li>
+    </ul>
+  
+<h2>Paycom</h2>
+<ul class="grid-list">
+<li><a href="http://obi-web-apps.obi.org/community/uploads/Contacting%20Employees%20Via%20Paycom.pdf" class="is-external-link" target="_blank" rel="noreferrer" style="text-decoration: none;"><strong>Paycom Manager on the Go-Contacting Employees Via Paycom</strong></a></li>
+<li><a href="" target="_blank" rel="noreferrer"style="text-decoration: none;"><strong>Paycom's New App Download</strong></a></li>
+</ul>
+
+<h2>Organizational Charts</h2>
+<ul class="grid-list">
+<li><a href="/documents/obi_organizational_chart-december_6_2023.pdf.crdownload" style="text-decoration: none;"><strong>Organizational Chart</strong></a></li>
+  <li><a href="/documents/obi_organizational_chart_summary-december_6_2023.pdf.crdownload" style="text-decoration: none;"><strong>Organizational Chart Summary</strong></a></li>
+</ul>
+
+<h2>New Hire Process &amp; Paperwork</h2>
+<ul class="grid-list">
+  <li><a href="" style="text-decoration: none;"><strong>New Hire Process for Hiring Managers</strong> - OKC</a></li>
+  <li><a href="" style="text-decoration: none;"><strong>New Hire Process for Hiring Managers</strong> - Non OKC</a></li>
+  <li><a href="" style="text-decoration: none;"><strong>Requisition Instructions</strong></a></li>
+</ul>
+
+<h2>Incentives &amp; Employee Discounts</h2>
+<p>Find out how you, as an OBI Employee, can save money including discount tickets, cars, rentals, and hotels.</p>
+<figure class="image"><img src="/employee_discounts.png" alt=""></figure>
